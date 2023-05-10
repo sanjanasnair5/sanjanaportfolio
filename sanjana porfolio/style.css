@@ -1,0 +1,46 @@
+.img-fluid{
+    height: 20rem;
+    width: 21rem;
+    
+}
+
+.ba{
+    background-image: url('https://cdn.wallpapersafari.com/88/41/Kb7CW6.jpg');
+    height: 700px;
+}
+.bgimg{
+    background-image: url('https://cdn.wallpapersafari.com/88/41/Kb7CW6.jpg');
+}
+
+.resume{
+    color: black;
+   
+}
+.lead{
+    color: #888888;
+    font-family: "lora-regular", serif;
+}
+.bg-image {
+     background-image: url('https://images.ctfassets.net/pdf29us7flmy/4BlBzySqSHoamwAUiDxTLI/ed08ccec996c1b39135cbe47790fcf23/The_Employability_Skills_You_Need_social.png');
+     height: 1055px;
+
+ }
+.myself{
+    color: #888888;
+}
+.main{
+    background-image: url(https://wallpaperaccess.com/full/632782.jpg);
+}
+.card{
+    background-image: url('https://i.pinimg.com/736x/77/f1/80/77f180f15c2a4e6fc2923223df38daf4.jpg');
+   
+
+}
+.pa{
+    background-color: rgb(119, 11, 110);
+    
+    
+     
+    
+}
+
